@@ -1,0 +1,27 @@
+.header{
+	background-color: #00FFFF;
+	border: 1px solid black;
+	
+}
+
+.footer{
+	background-color: #C0C0C0;
+	border: 1px solid black;
+	clear: both;
+	text-align: center;
+}
+.links{
+	height: 120px;
+	width: 30%;
+	background-color: red;
+	float: left;
+}
+.maincontent{
+	background-color: 
+	height: 120px;
+	width: 70%;
+float: right;
+
+}
+
+<a href="http://www.w3schools.com/html/" target="_blank">Visit our HTML tutorial!</a> 
