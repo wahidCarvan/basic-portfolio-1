@@ -1,6 +1,6 @@
-.big{
-	  width: 300px;
-    height: 100px;    
-    padding: 50px;
-    border: 1px solid black;
+.footer{
+	background-color: #C0C0C0;
+	border: 1px solid black;
+	clear: both;
+	text-align: center;
 }
