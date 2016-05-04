@@ -4,17 +4,27 @@
 	
 }
 
+.about-me-section {
+	background-color: grey;
+	width: 60%;
+	display: inline-block;
+}
+
 .footer{
 	background-color: #C0C0C0;
 	border: 1px solid black;
 	clear: both;
 	text-align: center;
+	position: absolute;
+	bottom: 0; 
 }
 .links{
-	height: 120px;
-	width: 30%;
-	background-color: red;
+	height: 100px;
+	width: 20%;
 	float: right;
+	background-color: grey;
+	padding: 25px;
+
 }
 .maincontent{
 	background-color: 
@@ -35,5 +45,10 @@ font-size: 18px;}
 	font-size: 18px;
 	font-weight: 12px;
 	color: purple;
-	
+
+}
+
+.color{
+	background-image: #C0C0C0;
+
 }
