@@ -1,0 +1,49 @@
+
+.p1
+{
+	font-family: "Pacifico", Arial;
+	font-size: 16px;
+	font-weight: 10px;
+	line-height: 12px;
+
+}
+h1{
+	font-family: 'Bree Serif', serif;
+	font-size:50px;
+	color: red;
+
+}
+
+
+
+.links:hover{
+	background-color: yellow;
+	color:green;
+	font-size:84px;
+	position:absolute;
+	float:top;
+	float:left;
+}
+
+.links:focus{
+background-color: orange;
+font-size: 900px;
+
+	}
+	.links:active{
+		background-color:pink;
+	}
+	a:focus{
+font-size:90px;
+text-overflow:45px;
+}
+a:hover:
+{
+	font-size:200px;
+color: teal;
+}
+a:active:{
+	color:orange;
+	font-family: sans-serif;
+	text-decoration:none;
+}

@@ -1,36 +1,32 @@
 .header{
-	background-color: #00FFFF;
-	border: 1px solid black;
-	
+	background-color: #d3d3d3;
+	border: 5px solid black;
+ font-size: 64px;
+ box-sizing: border-box;
 }
-
-.about-me-section {
+.pages {float:right; margin-right: 200px;}
+    
+ .name {float:left;
+ 	background-color: red;	}
+.maincontent {
 	background-color: grey;
-	width: 60%;
+	width: 40%;
 	display: inline-block;
+	font-size: 16px;
 }
 
-.footer{
-	background-color: #C0C0C0;
-	border: 1px solid black;
-	clear: both;
-	text-align: center;
-	position: absolute;
-	bottom: 0; 
 }
-.links{
+.sidebar{
 	height: 100px;
 	width: 20%;
+	background-color: white;
 	float: right;
-	background-color: grey;
-	padding: 25px;
-
 }
 .maincontent{
 	background-color: 
 	height: 120px;
 	width: 70%;
-float: right;
+float: left;
 
 }
 .contact{ color:green; 
@@ -40,15 +36,53 @@ font-size: 18px;}
 .pic{
 	width:40px;
 	height: 40px;
+	float: right;
 }
 .about_me{
 	font-size: 18px;
 	font-weight: 12px;
 	color: purple;
+	float: left;
 
 }
+.about-me-section{
+width: 40%;
+margin-left: 15%;
+float:left;
+border: 1px red;
+}
 
+
+
+
+}
 .color{
 	background-image: #C0C0C0;
 
+}
+
+
+.footer{
+	position: absolute;
+	bottom:0;
+	width: 100%;
+	height:auto;
+text-align: center;
+	background-color: #d3d3d3;
+	border: 1px solid black;
+ font-size: 12px;
+ float: bottom;
+ box-sizing: border-box;
+
+}
+.links{
+width: 85%;
+margin-right: 15%;
+float:left;
+}
+
+.websites{
+	width:300px;
+	float: left;
+	margin-top: 100px;
 }
